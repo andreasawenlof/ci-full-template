@@ -1,3 +1,6 @@
+# This is the same template but without gitpod-files and changing to vscode settings such as theme etc.
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome USER_NAME,
